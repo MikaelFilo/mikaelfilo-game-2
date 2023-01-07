@@ -1,4 +1,4 @@
-# mikaelfilo-game-2 Projects
+# mikaelfilo-game-2 Project
 
 Guess my number | Retro version 🔢
 
